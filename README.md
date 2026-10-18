@@ -5,7 +5,7 @@ The problem I was required to solve in the projects for this course was choosing
 
 - How did you approach the problem? Consider why data structures are important to understand.
   
-My approach in working on the problem was straightfoward, 
+My approach in working on the problem was pretty straightfoward, starting by analyzing the advantages and drawbacks of each data structure being provided. This allowed me to expand my knowledge of how knowing about each of these constructs are crucial for handling and solving issues for efficientl purposes.
 
 - How did you overcome any roadblocks you encountered while going through the activities or project?
   
