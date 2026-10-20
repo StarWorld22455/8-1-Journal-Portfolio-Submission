@@ -1,7 +1,7 @@
 # 8-1-Journal-Portfolio-Submission
 - What was the problem you were solving in the projects for this course?
   
-The problem I was required to solve in the projects for this course was choosing the most appropriate data structure for the software application, which reads courses filesand allows advisors to print out the course information and existing prerequisites. It also allows the application to run a search for a course file, as chosen by users.
+The problem I was required to solve in the projects for this course was choosing the most appropriate data structure for the software application, which reads courses filesand allows advisors to print out the course information and existing prerequisites. It also allows the application to run a search for a course file, as chosen by the user.
 
 - How did you approach the problem? Consider why data structures are important to understand.
   
