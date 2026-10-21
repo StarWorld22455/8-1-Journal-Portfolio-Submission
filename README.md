@@ -1,7 +1,7 @@
 # 8-1-Journal-Portfolio-Submission
 - What was the problem you were solving in the projects for this course?
   
-The problem I was required to solve in the projects for this course was choosing the most appropriate data structure for the software application, which reads courses filesand allows advisors to print out the course information and existing prerequisites. It also allows the application to run a search for a course file, as chosen by the user.
+The problem I was required to solve in the projects for this course was choosing the most appropriate data structure for the software application, which are Binary Search Trees, Hash Tables, and Linked Lists. Using a data structure allows the application to print out and sort course information and existing prerequisites, as well as searching for a specific course file.
 
 - How did you approach the problem? Consider why data structures are important to understand.
   
@@ -9,7 +9,7 @@ My approach in working on the problem was pretty straightfoward, starting by ana
 
 - How did you overcome any roadblocks you encountered while going through the activities or project?
   
-To overcome the obstacles working on the activities or projects, I did research through ZyBooks and othe resources to learn the ins and outs of implementing algorithms and debugging code. Writing code that allows the program to read spcific files from a CSV file was challenging at first, which allowed for detailed research to take place, but I was eventually able to make sense through debugging and problem-solving techniques.
+To overcome the obstacles working on the activities or projects, I did research through ZyBooks and other resources to learn the ins and outs of implementing algorithms and debugging code. Writing code that allows the program to read spcific files from a CSV file was challenging at first, which allowed for detailed research to take place, but I was eventually able to make sense through debugging and problem-solving techniques.
 
 - How has your work on this project expanded your approach to designing software and developing programs?
   
