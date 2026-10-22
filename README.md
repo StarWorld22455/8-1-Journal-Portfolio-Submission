@@ -5,7 +5,7 @@ The problem I was required to solve in the projects for this course was choosing
 
 - How did you approach the problem? Consider why data structures are important to understand.
   
-My approach in working on the problem was pretty straightfoward, starting by analyzing the advantages and drawbacks of each data structure being provided. This allowed me to expand my understanding of how knowing about each of these constructs are crucial for handling and solving issues for efficientl purposes.
+My approach in working on the problem was pretty straightfoward, starting with analyzing the advantages and drawbacks of each data structure being provided. This allowed me to expand my understanding of how knowing about each of these constructs are crucial for handling and solving issues for efficientl purposes.
 
 - How did you overcome any roadblocks you encountered while going through the activities or project?
   
@@ -13,7 +13,7 @@ To overcome any obstacles while working on activities, I did some research throu
 
 - How has your work on this project expanded your approach to designing software and developing programs?
   
-I was able to expand my knowledge of designing software and designing programs because of my apporach on learning about the implementation of data structures and specific algorithms. The process reqiured me to enhance my skills of using documentation and debugging specific parts of code, allowing for future modifications and cooperation skills to take place.
+I was able to slowly increase my knowledge of designing software and developing programs because of my apporach on learning about the implementation of data structures and specific algorithms. The process reqiured me to enhance my skills of using documentation and debugging specific parts of code, allowing for future modifications and cooperation skills to take place.
 
 - How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
