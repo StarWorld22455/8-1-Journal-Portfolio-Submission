@@ -9,11 +9,11 @@ My approach in working on the problem was pretty straightfoward, starting by ana
 
 - How did you overcome any roadblocks you encountered while going through the activities or project?
   
-To overcome the obstacles working on the activities, I did some research through ZyBooks and other resources to learn the basics of implementing algorithms and debugging types of code. Writing code that allows the program to read spcific files from a CSV file was challenging at first, which allowed for detailed research to take place, but I was eventually able to make sense through debugging and problem-solving techniques.
+To overcome any obstacles while working on activities, I did some research through ZyBooks and other resources to learn the basics of implementing algorithms and debugging types of code. Writing code that allows the program to read spcific files from a CSV file was challenging at first, which allowed for detailed research to take place. But I was eventually able to make sense through debugging and problem-solving techniques.
 
 - How has your work on this project expanded your approach to designing software and developing programs?
   
-I was able to expand my knowledge of designing software and designing programs because of my apporach on learning about the implementation of data structures and specific algorithms. The process reqiured me to enhance my skills of using documentation and debugging specific parts of code, allowing for future modifications and cooperation skills to take form.
+I was able to expand my knowledge of designing software and designing programs because of my apporach on learning about the implementation of data structures and specific algorithms. The process reqiured me to enhance my skills of using documentation and debugging specific parts of code, allowing for future modifications and cooperation skills to take place.
 
 - How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
