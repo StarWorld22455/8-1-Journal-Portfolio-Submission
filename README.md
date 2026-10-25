@@ -17,4 +17,4 @@ I was able to slowly increase my knowledge of designing software and developing 
 
 - How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
-In my opinion, working on this project, which displayed numerous ways of making code maintainable, readable, and adaptable, has allowed me to expand my knowledge of designing software applications. Working on these assignments increased my understanding on testing and designing more flexible code, allowing me to create a efficient application that would be acquired by future programmers to work on for future projects.
+In my opinion, working on this project, which displayed numerous ways of making code maintainable, readable, and adaptable, has allowed me to expand my knowledge of designing software applications. Working on these assignments allowe me to understand more about testing and designing more flexible code, allowing me to create a efficient application that would be acquired by future programmers to work on for future projects.
